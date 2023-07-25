@@ -1,0 +1,12 @@
+#status {
+  background-color: white;
+  width: 5%;
+  height: 10%;
+  border-radius: 5px;
+  font-size: 15px;
+}
+
+#heading {
+  width: 100%;
+  font-size: 30px;
+}
